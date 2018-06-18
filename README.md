@@ -4,11 +4,15 @@ This repository contains data and code used for the article titled “Impacts of
 
 ## Contents
 
+```bash
+
 ├── 1-butterfly.data
-│   └── butterfly.capture.data.csv
+│ └── butterfly.capture.data.csv
 ├── 2-logging.data
-│   └── site_info.csv
+│ └── site_info.csv
 ├── 3-fig.3
-│   └── fig3.may18.R
+│ └── fig3.may18.R
 ├── 4-logging.scenarios
 └── README.md
+
+```
